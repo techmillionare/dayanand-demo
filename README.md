@@ -1,4 +1,4 @@
 # dayanand-demo
 This is my first Git Repository.
 <br>
-Author - Dayanand Mishra
+Author - Dayanand Mishra(IAS)
